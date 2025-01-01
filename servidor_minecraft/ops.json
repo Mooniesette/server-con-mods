@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "534b5c3b-b71f-35e7-8532-910192f7093a",
+    "name": "Asa",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
